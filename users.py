@@ -13,5 +13,6 @@ s = socket.socket(socket.AF_INET , socket.SOCK_DGRAM)
 print('start')
 while True:
     s.connect((host,port))
-    data = s.recvfrom(1024)
-    print(data)
+    data,addres = s.recvfrom(1024)
+    udata = data.decode("utf-8")
+    print(udata)

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbeb22c1-e8b0-423d-89fb-8eab41c9c95d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/users.py" afterDir="false" />
     </list>
@@ -35,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="631" />
+          <entry key="py" value="684" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="631" />
+          <entry key="Python" value="684" />
         </counts>
       </usages-collector>
     </session>
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="237">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -59,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/users.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="220">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -71,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://G:/чат питон/venv/Include/users.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="91" column="10" lean-forward="true" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="20" />
+            <state relative-caret-position="85">
+              <caret line="96" column="8" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="19" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
                 <element signature="e#56#68#0" />
@@ -192,8 +190,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.server" />
         <item itemvalue="Python.users" />
+        <item itemvalue="Python.server" />
       </list>
     </recent_temporary>
   </component>
@@ -237,17 +235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/чат питон/venv/Include/users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="91" column="10" lean-forward="true" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-            <element signature="e#56#68#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://G:/чат питон/venv/Include/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
@@ -255,17 +242,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://G:/чат питон/venv/Include/users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="96" column="8" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#56#68#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="237">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/users.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="220">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
